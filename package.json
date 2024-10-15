@@ -2,9 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "A backend for NILO Inventory Management",
-  "main": "server.js",   // This should point to your entry point file (e.g., "server.js")
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js",   // Script to start your server
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
